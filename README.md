@@ -1,4 +1,3 @@
-
 # Problem Statement:
 
 We have a dataset of sales of different TV sets across different locations. 
