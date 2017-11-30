@@ -1,4 +1,3 @@
-# Assignment-3.3
 
 # Problem Statement:
 
