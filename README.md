@@ -22,4 +22,4 @@ Assignment-3.3/Task 1/UnitsByCompany/src/org/acadgild/
 # Solution Code Path for Task 2:
 Assignment-3.3/Task 2/UnitsByStatesForOnida/src/org/acadgild/
 
-I have attached the screenshots of program execution as well as the ouput file itself in the root of this repository.
+I have attached the screenshots of program execution as well as the ouput file itself in respective task folders.
