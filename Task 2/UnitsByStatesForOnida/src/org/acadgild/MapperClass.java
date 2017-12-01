@@ -12,9 +12,7 @@ public class MapperClass extends Mapper <LongWritable, Text, Text, IntWritable>
 	
 	public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException
 	{
-		System.out.println("value: "+value);
 		String line = value.toString();
-		System.out.println("line: "+line);
 		if(line.length()>0)
 		{
 			String[] fields = line.split("\\|");
